@@ -1,3 +1,4 @@
 Name: Nienke
 Age: 28
 Favorite Color: Teal
+Favorite number: 9
